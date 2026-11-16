@@ -1,0 +1,22 @@
+{
+  "name": "What the Minister Was Prepared to Say",
+  "kind": "question-period",
+  "recordLabel": "prepared notes",
+  "dataset": "https://open.canada.ca/data/en/dataset/ecd1a913-47da-47fc-8f96-2432be420986",
+  "csv": "https://open.canada.ca/data/dataset/ecd1a913-47da-47fc-8f96-2432be420986/resource/c55a2862-7ec4-462c-a844-22acab664812/download/qpnotes.csv",
+  "sourceSearch": "https://search.open.canada.ca/qpnotes/",
+  "reference": "reference_number",
+  "date": "date_received",
+  "minimum": 1000,
+  "compare": true,
+  "titleFields": ["title_en", "title_fr"],
+  "extraFields": ["minister"],
+  "chips": ["cyber security", "data breach", "service standard", "procurement", "ransomware", "artificial intelligence"],
+  "sections": [
+    ["Question or issue", "question_en", "question_fr"],
+    ["Prepared response", "response_en", "response_fr"],
+    ["Background", "background_en", "background_fr"],
+    ["Additional information", "additional_information_en", "additional_information_fr"],
+    ["Minister code", "minister", ""]
+  ]
+}
