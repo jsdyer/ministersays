@@ -1,0 +1,24 @@
+{
+  "id": "ministersays",
+  "title": "What the Minister Was Prepared to Say",
+  "description": "Compare Question Period notes and the issues they address.",
+  "category": "explorers",
+  "tags": [
+    "question",
+    "period",
+    "minister",
+    "cabinet",
+    "talking",
+    "points"
+  ],
+  "icon": "mic-vocal",
+  "url": "/ministersays/",
+  "source": "https://github.com/jsdyer/ministersays",
+  "hosting": "project",
+  "access": "browser",
+  "data_info": {
+    "mode": "snapshot",
+    "detail": "Federal departments publish bilingual Question Period notes with prepared ministerial responses.",
+    "cadence": "Daily"
+  }
+}

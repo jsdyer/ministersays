@@ -1,5 +1,9 @@
 # What the Minister Was Prepared to Say
 
+<!-- coolcode:guide -->
+Select two notes to compare their prepared questions, responses and background, including the source’s redactions. These are briefing preparations, so do not read the comparison as a transcript of what a minister actually said.
+<!-- /coolcode:guide -->
+
 [Open the live explorer](https://coolcode.ca/ministersays/)
 
 Search the English and French question-period packages that federal institutions prepared for ministers. Filter by publishing institution and year. Open the full published text, including redactions as supplied, and select any two notes to compare their questions, prepared responses, and background.
